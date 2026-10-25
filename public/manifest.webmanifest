@@ -1,0 +1,17 @@
+{
+  "name": "Water Stock",
+  "short_name": "Water Stock",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#e7eef2",
+  "theme_color": "#083044",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
